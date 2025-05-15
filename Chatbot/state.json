@@ -1,0 +1,81 @@
+[
+    {
+        "Categories":["Camp", "Collection", "Stock", "Demand and supply", "Discard", "Reactive"]
+    },
+    {
+        "Categories":["All", "Blood center"],
+        "Camp":{
+            "All": {
+                "Total completed camps": 200,
+                "Total applied camps": 300,
+                "Total cancelled in camp": 100,
+                "Total expected donors in camp": 500
+            },
+            "Blood center":{
+                "IBT": {
+                    "Total completed camps": 15,
+                    "Total applied camps": 30,
+                    "Total cancelled in camp": 15,
+                    "Total expected donors in camp": 100
+                },
+                "SSKM": {
+                    "Total completed camps": 20,
+                    "Total applied camps": 30,
+                    "Total cancelled in camp": 10,
+                    "Total expected donors in camp": 50
+                },
+                "M R Bangur": {
+                    "Total completed camps": 2,
+                    "Total applied camps": 3,
+                    "Total cancelled in camp": 1,
+                    "Total expected donors in camp": 50
+                }
+            }
+        }
+    },
+    {
+        "Categories":["All", "Product", "Group", "Blood center"],
+        "Collection":{
+            "All": {},
+            "Product":{},
+            "Group":{},
+            "Blood center":{}
+        }
+    },
+    {
+        "Categories":["All", "Product", "Group", "Blood center"],
+        "Stock":{
+            "All": {},
+            "Product":{},
+            "Group":{},
+            "Blood center":{}
+        }
+    },
+    {
+        "Categories":["All", "Product", "Group", "Blood center"],
+        "Demand and supply":{
+            "All": {},
+            "Product":{},
+            "Group":{},
+            "Blood center":{}
+        }
+    },
+    {
+        "Categories":["All", "Product", "Group", "Blood center"],
+        "Discard":{
+            "All": {},
+            "Product":{},
+            "Group":{},
+            "Blood center":{}
+        }
+    },
+    {
+        "Categories":["All", "Product", "Group", "Blood center"],
+        "Reactive":{
+            "All": {},
+            "Product":{},
+            "Group":{},
+            "Blood center":{}
+        }
+    }
+]
