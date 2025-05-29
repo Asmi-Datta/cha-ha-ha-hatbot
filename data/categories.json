@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "682ffcdd2767405e76ed1b94"
+  },
+  "Categories": [
+    "State",
+    "District",
+    "RBTC",
+    "Blood center"
+  ]
+}]
